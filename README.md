@@ -1,5 +1,5 @@
 # About me :)
-I am a first year Computer Science student at the University of Warwick. Keen to keep learning and incredibly talented, I am most focussed on learning about how we can use machine learning or other algorithms in time-series analysis; how trends change over time and why. I intend on doing this from the ground up, not missing any steps on how machine learning works from the ground up, from data structures and linear algebra to the final trained model.
+I am a first year Computer Science student at the University of Warwick. Most focussed on learning about how we can use machine learning or other algorithms in time-series analysis, but also highly interested in CS fundamentals (FPGAs in futue?) and low-level programming.
 
 # Upcoming Projects
 Projects I am looking to complete & have already completed. Not university-associated.
