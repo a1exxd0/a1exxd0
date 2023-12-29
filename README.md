@@ -24,5 +24,5 @@ Things I am good at but am looking to focus on learning more about.
 # Looking To Learn
 Things I haven't started yet and want to learn from scratch
  - OCaml
- - Time Series Analysis
+ - Time Series Analysis & Stochastic Processes
 
