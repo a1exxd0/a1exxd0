@@ -7,6 +7,7 @@ Projects I am looking to complete & have already completed. Not university-assoc
  - [X] Python standard MNIST Convolutional NN (https://github.com/a1exxd0/PythonConvolutional)
  - [ ] C++ 2 category convolutional NN
  - [X] Creating a stack class in C (https://github.com/a1exxd0/CreateClassInC/tree/main/IntegerStack)
+ - [ ] Time-series analysis on seasonal weather data in London to predict future temperatures
 
 # Top Skills
 Skills I am most proficient in.
