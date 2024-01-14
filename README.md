@@ -1,5 +1,5 @@
 # About me :)
-I am a first year Computer Science student at the University of Warwick. Most focussed on learning about how we can use machine learning or other algorithms in time-series analysis, but also highly interested in CS fundamentals (FPGAs in futue?) and low-level programming.
+I am a first year Computer Science student at the University of Warwick. Most focussed on learning about how we can use machine learning or other algorithms in time-series analysis, especially in finance, but also highly interested in CS fundamentals and low-level programming.
 
 # Upcoming Projects
 Projects I am looking to complete & have already completed. Not university-associated.
