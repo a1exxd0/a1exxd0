@@ -3,11 +3,12 @@ I am a first year Computer Science student at the University of Warwick. Most fo
 
 # Upcoming Projects
 Projects I am looking to complete & have already completed. Not university-associated.
- - [ ] C++ Multithreaded Server
  - [X] Python standard MNIST Convolutional NN (https://github.com/a1exxd0/PythonConvolutional)
  - [ ] C++ 2 category convolutional NN
  - [X] Creating a stack class in C (https://github.com/a1exxd0/CreateClassInC/tree/main/IntegerStack)
- - [ ] Time-series analysis on seasonal weather data in London to predict future temperatures
+ - [ ] Finite Markov chain calculator for probability of state transitions in n steps (https://github.com/a1exxd0/FiniteMarkovChains)
+ - [ ] C++ Multithreaded Server
+ - [ ] Time-series analysis on seasonal weather data in London to predict future temperature
 
 # Top Skills
 Skills I am most proficient in.
@@ -21,6 +22,7 @@ Things I am good at but am looking to focus on learning more about.
  - Python (matplotlib, numpy, etc.)
  - Neural Networks
  - Databases & data analysis
+ - Stochastic Processes
 
 # Looking To Learn
 Things I haven't started yet and want to learn from scratch
