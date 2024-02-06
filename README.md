@@ -1,6 +1,8 @@
 # About me :)
 I am a first year Computer Science student at the University of Warwick. Most focussed on learning about how we can use machine learning or other algorithms in time-series analysis, especially in finance, but also highly interested in CS fundamentals and low-level programming.
 
+Winner of Citadel's ICHack 2024; Europe's biggest student-hackathon as a first year student in Most Innovative Use of Financial Data.
+
 # Upcoming Projects
 Projects I am looking to complete & have already completed. Not university-associated.
  - [X] Python standard MNIST Convolutional NN (https://github.com/a1exxd0/PythonConvolutional)
