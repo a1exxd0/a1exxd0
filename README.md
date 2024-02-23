@@ -10,7 +10,7 @@ Projects I am looking to complete & have already completed. Not university-assoc
  - [ ] C++ 2 category convolutional NN
  - [X] [Creating a stack class in C](https://github.com/a1exxd0/CreateClassInC/tree/main/IntegerStack)
  - [ ] [Finite Markov chain multipurpose calculator](https://github.com/a1exxd0/FiniteMarkovChains)
- - [ ] C++ Multithreaded Server
+ - [ ] [C++ Compiler](https://github.com/a1exxd0/CPPCompiler/)
  - [ ] Time-series analysis on seasonal weather data in London to predict future temperature
 
 # Top Skills
