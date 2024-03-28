@@ -6,12 +6,15 @@ I am a first year Computer Science student at the University of Warwick. Most fo
 
 # Upcoming Projects
 Projects I am looking to complete & have already completed. Not university-associated.
- - [X] [Python standard MNIST Convolutional NN](https://github.com/a1exxd0/PythonConvolutional)
- - [ ] [C++ convolutional NN from scratch with Eigen](https://github.com/a1exxd0/HaDoLibrary) - extending to be a full ML library
- - [X] [Creating a stack class in C](https://github.com/a1exxd0/CreateClassInC/tree/main/IntegerStack)
- - [ ] [Finite Markov chain multipurpose calculator](https://github.com/a1exxd0/FiniteMarkovChains)
+ - [ ] [C++ Neural Network from scratch with Eigen](https://github.com/a1exxd0/HaDoLibrary) - extending to be a full ML library
  - [ ] [C++ Compiler](https://github.com/a1exxd0/CPPCompiler/)
  - [ ] Time-series analysis on seasonal weather data in London to predict future temperature
+
+# Archived Projects
+Archived projects I've completed or have had to postpone
+ - [ ] [Finite Markov chain multipurpose calculator](https://github.com/a1exxd0/FiniteMarkovChains)
+ - [X] [Python standard MNIST Convolutional NN](https://github.com/a1exxd0/PythonConvolutional)
+ - [X] [Creating a stack class in C](https://github.com/a1exxd0/CreateClassInC/tree/main/IntegerStack)
 
 # Top Skills
 Skills I am most proficient in.
