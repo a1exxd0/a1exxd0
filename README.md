@@ -6,7 +6,7 @@ I am a first year Computer Science student at the University of Warwick. Most fo
 
 # Upcoming Projects
 Projects I am looking to complete & have already completed. Not university-associated.
- - [ ] [C++ Neural Network from scratch with Eigen](https://github.com/a1exxd0/HaDoLibrary) - extending to be a full ML library
+ - [X] [C++ Neural Network from scratch with Eigen](https://github.com/a1exxd0/HaDoLibrary) - extending to be a full ML library
  - [ ] [C++ Compiler](https://github.com/a1exxd0/CPPCompiler/)
  - [ ] Time-series analysis on seasonal weather data in London to predict future temperature
 
