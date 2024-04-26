@@ -23,14 +23,10 @@ Skills I am most proficient in.
  - Java
 
 # Looking To Improve
-Things I am good at but am looking to focus on learning more about.
+Things I'm actively looking into developing my skills toward:
  - C++
  - Python (matplotlib, numpy, etc.)
  - Neural Networks
  - Databases & data analysis
- - Stochastic Processes
-
-# Looking To Learn
-Things I haven't started yet and want to learn from scratch
- - OCaml
+ - Kubernetes & Docker
 
