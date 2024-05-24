@@ -1,5 +1,7 @@
 # About me :)
-I am a first year Computer Science student at the University of Warwick. Most focussed on learning about how we can use machine learning or other algorithms in time-series analysis, especially in finance, but also highly interested in CS fundamentals and low-level programming.
+I am a first year Computer Science student at the University of Warwick. Most interested in low-latency applications of CS and HPC.
+
+Member of the UK National Student Cluster Competition team, and (hopefully) competing in [SC24](https://sc24.supercomputing.org/) in Atlanta in November.
 
 [Winner](https://devpost.com/software/decarb) of Citadel's ICHack 2024; Europe's biggest student-hackathon as a first year student in Most Innovative Use of Financial Data:
 
