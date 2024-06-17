@@ -9,7 +9,7 @@ Member of the UK National Student Cluster Competition team, and (hopefully) comp
 # Upcoming Projects
 Projects I am looking to complete & have already completed. Not university-associated.
  - [X] [C++ Neural Network from scratch with Eigen](https://github.com/a1exxd0/HaDoLibrary)
- - [ ] Rust Ray Tracing library (need to learn Rust fully first!)
+ - [ ] [C++ Ray Tracing Engine](https://github.com/a1exxd0/ray-tracing-engine)
 
 # Archived Projects
 Archived projects I've completed or have had to postpone
