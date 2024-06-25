@@ -10,6 +10,7 @@ Member of the UK National Student Cluster Competition team, and (hopefully) comp
 Projects I am looking to complete & have already completed. Not university-associated.
  - [X] [C++ Neural Network from scratch with Eigen](https://github.com/a1exxd0/HaDoLibrary)
  - [ ] [C++ Ray Tracing Engine](https://github.com/a1exxd0/ray-tracing-engine)
+ - [ ] [Module & Flavours System for Unix](https://github.com/a1exxd0/scc-modules)
 
 # Archived Projects
 Archived projects I've completed or have had to postpone
