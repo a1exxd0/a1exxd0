@@ -1,11 +1,6 @@
 # About me :)
 I am a first year Computer Science student at the University of Warwick. Most interested in low-latency applications of CS and HPC.
 
-Member of the UK National Student Cluster Competition team, and (hopefully) competing in [SC24](https://sc24.supercomputing.org/) in Atlanta in November.
-
-[Winner](https://devpost.com/software/decarb) of Citadel's ICHack 2024; Europe's biggest student-hackathon as a first year student in Most Innovative Use of Financial Data:
-
-
 # Upcoming Projects
 Projects I am looking to complete & have already completed. Not university-associated.
  - [X] [C++ Neural Network from scratch with Eigen](https://github.com/a1exxd0/HaDoLibrary)
