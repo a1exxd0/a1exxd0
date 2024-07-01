@@ -16,7 +16,6 @@ Archived projects I've completed or have had to postpone
 
 # Top Skills
 Skills I am most proficient in.
- - C
  - C++
  - Java
 
