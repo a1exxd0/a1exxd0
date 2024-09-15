@@ -18,13 +18,3 @@ Archived projects I've completed or have had to postpone
 Skills I am most proficient in.
  - C++
  - Java
-
-# Looking To Improve
-Things I'm actively looking into developing my skills toward:
- - C++
- - Rust
- - Python (matplotlib, numpy, etc.)
- - Neural Networks
- - Databases & data analysis
- - Kubernetes & Docker
-
