@@ -1,5 +1,5 @@
 # About me :)
-I am a Computer Science student at the University of Warwick. Most interested in low-latency applications of CS and HPC.
+I am a Computer Science student at the University of Warwick. Most interested in HPC and C++.
 
 # Upcoming Projects
 Projects I am looking to complete & have already completed. Not university-associated.
