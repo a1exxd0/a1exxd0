@@ -4,7 +4,7 @@ I am a Computer Science student at the University of Warwick. Most interested in
 # Upcoming Projects
 Projects I am looking to complete & have already completed. Not university-associated:
  - [X] [C++ Neural Network from scratch with Eigen](https://github.com/a1exxd0/HaDoLibrary)
- - [ ] C Compiler in Rust
+ - [ ] [C Compiler in Rust](https://github.com/a1exxd0/acc/)
 
 # Archived Projects
 Archived projects I've completed or have had to postpone (or possibly just lacked motivation to do):
