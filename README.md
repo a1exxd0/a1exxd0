@@ -17,4 +17,4 @@ Archived projects I've completed or have had to postpone (or possibly just lacke
 
 # Professional Experience
 - SWE Intern @ Vanguard Asset Management
-- incoming? @ IMC Trading
+- Incoming SWE Intern @ IMC Trading
