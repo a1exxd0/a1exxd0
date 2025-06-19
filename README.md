@@ -5,3 +5,7 @@ I'm 2nd year Computer Science at the University of Warwick. I love anything HPC,
 - Software Engineer Intern @ Vanguard Asset Management (Jun. 24 - Sep. 24)
 - Software Engineer Intern @ Jump Trading (Mar. 25 - Jun. 25)
 - Incoming SWE Intern @ IMC Trading (Jun. 25 - Aug. 25)
+
+Résume available on request.
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alexdo04/) if you want to work together on something!
