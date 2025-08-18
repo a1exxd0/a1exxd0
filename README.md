@@ -8,6 +8,6 @@ Big contribution gap as I'm doing full-time work for half the year :(
 - Software Engineer Intern @ Jump Trading (Mar. 25 - Jun. 25)
 - Incoming SWE Intern @ IMC Trading (Jun. 25 - Aug. 25)
 
-Résume available on request.
+Résumé available on request.
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alexdo04/) if you want to work together on something!
