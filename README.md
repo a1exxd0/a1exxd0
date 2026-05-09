@@ -1,5 +1,5 @@
 # About me
-I'm 3rd year Computer Science at the University of Warwick. I love anything HPC, C++, and Rust, and am dipping my toes into the world of startups :)
+I'm 3rd year Computer Science at the University of Warwick. I love anything HPC, C++, and Rust, and am dipping my toes into the world of infra startups :)
 
 # Professional Experience
 - Software Engineer Intern @ IMC Trading (Jun. 25 - Aug. 25)
