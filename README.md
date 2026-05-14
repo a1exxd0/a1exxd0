@@ -1,5 +1,5 @@
 # About me
-I'm 3rd year Computer Science at the University of Warwick. I love anything HPC, C++, and Rust, and am dipping my toes into the world of infra startups :)
+I'm 3rd year Computer Science at the University of Warwick. I love anything HPC, C++, and Rust, and am dipping my toes into the world of startups.
 
 # Professional Experience
 - Software Engineer Intern @ IMC Trading (Jun. 25 - Aug. 25)
@@ -11,7 +11,5 @@ I'm 3rd year Computer Science at the University of Warwick. I love anything HPC,
 - Volunteer @ The Warwick Hackathon (Dec. 24 - Oct. 25)
 - Lead Organiser @ The Warwick Hackathon (1st ever year) (Apr. 24 - Nov. 24)
 - Vice President @ Warwick Coding Society (Mar. 24 - Mar. 25)
-
-Résumé available on request.
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alexdo04/) if you want to work together on something!
