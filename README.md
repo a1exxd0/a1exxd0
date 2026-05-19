@@ -7,6 +7,7 @@ I'm 3rd year Computer Science at the University of Warwick. I love anything HPC,
 - Software Engineer Intern @ Vanguard Asset Management (Jun. 24 - Sep. 24)
 
 # Volunteering
+- HPC Team Coach @ Warwick Coding Society (Sept. 25 - Dec. 25)
 - President @ Warwick Coding Society (Mar. 25 - Present)
 - Volunteer @ The Warwick Hackathon (Dec. 24 - Oct. 25)
 - Lead Organiser @ The Warwick Hackathon (1st ever year) (Apr. 24 - Nov. 24)
