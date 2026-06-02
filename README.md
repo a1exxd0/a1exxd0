@@ -1,16 +1,18 @@
 # about me
 incoming swe @ jump trading
 
-# Professional Experience
-- Software Engineer Intern @ IMC Trading (Jun. 25 - Aug. 25)
-- Software Engineer Intern @ Jump Trading (Mar. 25 - Jun. 25)
-- Software Engineer Intern @ Vanguard Asset Management (Jun. 24 - Sep. 24)
+# experience
+- swe intern @ imc trading (jun. 25 - aug. 25)
+- swe intern @ jump trading (mar. 25 - jun. 25)
+- swe intern @ vanguard asset management (jun. 24 - sep. 24)
 
-# Volunteering
-- HPC Team Coach @ Warwick Coding Society (Sept. 25 - Dec. 25)
-- President @ Warwick Coding Society (Mar. 25 - Present)
-- Volunteer @ The Warwick Hackathon (Dec. 24 - Oct. 25)
-- Lead Organiser @ The Warwick Hackathon (1st ever year) (Apr. 24 - Nov. 24)
-- Vice President @ Warwick Coding Society (Mar. 24 - Mar. 25)
+# education
+- cs @ university of warwick (oct. 23 - jun. 26)
+- perfect high school grades
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alexdo04/) if you want to work together on something!
+# volunteering
+- hpc team coach @ warwick coding society (sept. 25 - dec. 25)
+- president @ warwick coding society (mar. 25 - present)
+- volunteer @ the warwick hackathon (dec. 24 - oct. 25)
+- lead organiser @ the warwick hackathon (1st ever year) (apr. 24 - nov. 24)
+- vice president @ warwick coding society (mar. 24 - mar. 25)
