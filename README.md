@@ -1,5 +1,5 @@
-# about me
-incoming swe @ jump trading
+# about me!
+incoming swe @ jump trading. in the meantime i am a professional larper
 
 # experience
 - swe intern @ imc trading (jun. 25 - aug. 25)
