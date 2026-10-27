@@ -2,7 +2,7 @@
 professional larper
 
 # experience
-- incoming quant dev @ quadrature
+- quant dev @ quadrature
 - swe intern @ imc trading (jun. 25 - aug. 25)
 - swe intern @ jump trading (mar. 25 - jun. 25)
 - swe intern @ vanguard asset management (jun. 24 - sep. 24)
